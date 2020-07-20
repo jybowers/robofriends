@@ -2,4 +2,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Robofriends
 
-Use the search bar to help find oyur new robot friend. 
+Use the search bar to help find your new robot friend. 
